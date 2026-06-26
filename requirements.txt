@@ -1,0 +1,11 @@
+# Python Scientific and Structural Biology Packages
+numpy>=1.22.0
+pandas>=1.4.0
+scipy>=1.8.0
+biopython>=1.79
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+pyyaml>=6.0
+networkx>=2.6
+jupyterlab>=3.2.0
+mdtraj>=1.9.7
