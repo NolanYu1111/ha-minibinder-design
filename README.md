@@ -253,9 +253,9 @@ Contributions, bug reports, and suggestions are welcome! Please open an issue or
 
 ## Contact
 
-**Project Lead:** [Your Name]  
-**Email:** [your-email]  
-**Institution:** [Your Institution]
+**Project Lead:** [Nolan Yu]  
+**Email:** [nolanyu620@gmail.com]  
+**Institution:** [Del Norte High School]
 
 ---
 
